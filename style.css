@@ -140,3 +140,12 @@ ul.links-list {
 	color: #f9faf8;
 	font-weight: 700;
 }
+
+.footer {
+	background-color: #1f2937;
+	text-align: center;
+	font-size: 18px;
+	color: #e5e7eb;
+	margin-top: auto;
+	padding: 16px;
+}
