@@ -70,3 +70,27 @@ ul.links-list {
 	color: #f9faf8;
 	text-align: center;
 }
+
+.info {
+	text-align: center;
+	padding: 16px;
+}
+
+.info-header {
+	font-size: 36px;
+	font-weight: 800;
+	color: #1f2937;
+	margin-bottom: 16px;
+}
+
+.card-container {
+	display: flex;
+	gap: 32px;
+}
+
+.card-image {
+	height: 100px;
+	border: 2px solid #3882f6;
+	border-radius: 8px;
+	margin-bottom: 8px;
+}
