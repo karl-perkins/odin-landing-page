@@ -17,7 +17,7 @@ body {
 .header-container {
 	max-width: 992px;
 	margin: 0 auto;
-	padding: 0 8px;
+	padding: 0 16px;
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
@@ -51,7 +51,7 @@ ul.links-list {
 .hero-container {
 	max-width: 992px;
 	margin: 0 auto;
-	padding: 0 8px;
+	padding: 0 16px;
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: center;
@@ -152,6 +152,7 @@ ul.links-list {
 
 .quote-container {
 	max-width: 992px;
+	padding: 0 16px;
 }
 
 .quote-text {
